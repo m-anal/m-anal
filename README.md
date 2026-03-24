@@ -1,16 +1,25 @@
-## Hi there 👋
+ Manal Makrane
+### Cybersecurity Student at ENSAO — Oujda, Morocco
 
-<!--
-**m-anal/m-anal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about offensive security, SOC analysis and vulnerability assessment.
+Currently building hands-on experience through real projects and certifications.
 
-Here are some ideas to get you started:
+## Projects
+SOC based on MITRE ATT&CK
+Open-source SOC with Wazuh and Elastic Stack, phishing attack detection
+and mapping on MITRE ATT&CK framework with investigation dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android Fuzzing
+Fuzzing tests to evaluate vulnerabilities and robustness of Android applications.
+
+Advanced Keylogger on Linux
+Development of an advanced keylogger under Linux using Python.
+
+
+## Certifications
+- TryHackMe SOC Level 1 (in progress)
+- Cybrary Ethical Hacking (obtained)
+- Cisco Ethical Hacker : SummerCamp25 (in progress)
+
+## Contact
+manalmakrane@gmail.com
