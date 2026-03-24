@@ -1,5 +1,5 @@
  Manal Makrane
-### Cybersecurity Student at ENSAO — Oujda, Morocco
+### Cybersecurity Student at ENSAO , Morocco
 
 Passionate about offensive security, SOC analysis and vulnerability assessment.
 Currently building hands-on experience through real projects and certifications.
